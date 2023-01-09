@@ -1,0 +1,294 @@
+For the letter A: 
+1 syllable has 5381 words which is 7.73% of all A words
+2 syllables has 28860 words which is 41.47% of all A words
+3 syllables has 21886 words which is 31.45% of all A words
+4 syllables has 9453 words which is 13.58% of all A words
+5 syllables has 3172 words which is 4.56% of all A words
+6 syllables has 710 words which is 1.02% of all A words
+7 syllables has 106 words which is 0.15% of all A words
+8 syllables has 15 words which is 0.02% of all A words
+9 syllables has 2 words which is 0.0% of all A words
+12 syllables has 1 words which is 0.0% of all A words
+14 syllables has 1 words which is 0.0% of all A words
+
+For the letter B: 
+1 syllable has 1956 words which is 9.53% of all B words
+2 syllables has 9873 words which is 48.1% of all B words
+3 syllables has 5820 words which is 28.35% of all B words
+4 syllables has 2097 words which is 10.22% of all B words
+5 syllables has 611 words which is 2.98% of all B words
+6 syllables has 146 words which is 0.71% of all B words
+7 syllables has 21 words which is 0.1% of all B words
+8 syllables has 1 words which is 0.0% of all B words
+12 syllables has 1 words which is 0.0% of all B words
+
+For the letter C: 
+1 syllable has 3021 words which is 8.77% of all C words
+2 syllables has 13295 words which is 38.6% of all C words
+3 syllables has 10849 words which is 31.5% of all C words
+4 syllables has 5045 words which is 14.65% of all C words
+5 syllables has 1775 words which is 5.15% of all C words
+6 syllables has 374 words which is 1.09% of all C words
+7 syllables has 74 words which is 0.21% of all C words
+8 syllables has 7 words which is 0.02% of all C words
+14 syllables has 1 words which is 0.0% of all C words
+
+For the letter D: 
+1 syllable has 3033 words which is 9.61% of all D words
+2 syllables has 14171 words which is 44.89% of all D words
+3 syllables has 9442 words which is 29.91% of all D words
+4 syllables has 3491 words which is 11.06% of all D words
+5 syllables has 1149 words which is 3.64% of all D words
+6 syllables has 237 words which is 0.75% of all D words
+7 syllables has 36 words which is 0.11% of all D words
+8 syllables has 3 words which is 0.01% of all D words
+9 syllables has 1 words which is 0.0% of all D words
+12 syllables has 1 words which is 0.0% of all D words
+14 syllables has 1 words which is 0.0% of all D words
+
+For the letter E: 
+1 syllable has 8319 words which is 10.05% of all E words
+2 syllables has 36820 words which is 44.5% of all E words
+3 syllables has 25134 words which is 30.37% of all E words
+4 syllables has 9029 words which is 10.91% of all E words
+5 syllables has 2721 words which is 3.29% of all E words
+6 syllables has 610 words which is 0.74% of all E words
+7 syllables has 99 words which is 0.12% of all E words
+8 syllables has 13 words which is 0.02% of all E words
+9 syllables has 2 words which is 0.0% of all E words
+12 syllables has 1 words which is 0.0% of all E words
+14 syllables has 1 words which is 0.0% of all E words
+
+For the letter F: 
+1 syllable has 1423 words which is 11.82% of all F words
+2 syllables has 5543 words which is 46.05% of all F words
+3 syllables has 3356 words which is 27.88% of all F words
+4 syllables has 1242 words which is 10.32% of all F words
+5 syllables has 381 words which is 3.17% of all F words
+6 syllables has 80 words which is 0.66% of all F words
+7 syllables has 10 words which is 0.08% of all F words
+8 syllables has 1 words which is 0.01% of all F words
+14 syllables has 1 words which is 0.01% of all F words
+
+For the letter G: 
+1 syllable has 2065 words which is 8.27% of all G words
+2 syllables has 10986 words which is 44.02% of all G words
+3 syllables has 7854 words which is 31.47% of all G words
+4 syllables has 2876 words which is 11.52% of all G words
+5 syllables has 930 words which is 3.73% of all G words
+6 syllables has 206 words which is 0.83% of all G words
+7 syllables has 34 words which is 0.14% of all G words
+8 syllables has 5 words which is 0.02% of all G words
+14 syllables has 1 words which is 0.0% of all G words
+
+For the letter H: 
+1 syllable has 4024 words which is 15.04% of all H words
+2 syllables has 13327 words which is 49.82% of all H words
+3 syllables has 6604 words which is 24.69% of all H words
+4 syllables has 2068 words which is 7.73% of all H words
+5 syllables has 551 words which is 2.06% of all H words
+6 syllables has 144 words which is 0.54% of all H words
+7 syllables has 27 words which is 0.1% of all H words
+8 syllables has 2 words which is 0.01% of all H words
+12 syllables has 1 words which is 0.0% of all H words
+
+For the letter I: 
+1 syllable has 3608 words which is 5.85% of all I words
+2 syllables has 22857 words which is 37.05% of all I words
+3 syllables has 20782 words which is 33.69% of all I words
+4 syllables has 10115 words which is 16.4% of all I words
+5 syllables has 3409 words which is 5.53% of all I words
+6 syllables has 768 words which is 1.25% of all I words
+7 syllables has 126 words which is 0.2% of all I words
+8 syllables has 16 words which is 0.03% of all I words
+9 syllables has 2 words which is 0.0% of all I words
+12 syllables has 1 words which is 0.0% of all I words
+14 syllables has 1 words which is 0.0% of all I words
+
+For the letter J: 
+1 syllable has 328 words which is 12.28% of all J words
+2 syllables has 1259 words which is 47.15% of all J words
+3 syllables has 802 words which is 30.04% of all J words
+4 syllables has 233 words which is 8.73% of all J words
+5 syllables has 41 words which is 1.54% of all J words
+6 syllables has 7 words which is 0.26% of all J words
+
+For the letter K: 
+1 syllable has 2464 words which is 15.4% of all K words
+2 syllables has 8373 words which is 52.33% of all K words
+3 syllables has 4146 words which is 25.91% of all K words
+4 syllables has 911 words which is 5.69% of all K words
+5 syllables has 95 words which is 0.59% of all K words
+6 syllables has 12 words which is 0.07% of all K words
+
+For the letter L: 
+1 syllable has 3832 words which is 8.1% of all L words
+2 syllables has 21360 words which is 45.16% of all L words
+3 syllables has 13682 words which is 28.93% of all L words
+4 syllables has 5727 words which is 12.11% of all L words
+5 syllables has 2045 words which is 4.32% of all L words
+6 syllables has 540 words which is 1.14% of all L words
+7 syllables has 94 words which is 0.2% of all L words
+8 syllables has 15 words which is 0.03% of all L words
+9 syllables has 2 words which is 0.0% of all L words
+12 syllables has 1 words which is 0.0% of all L words
+14 syllables has 1 words which is 0.0% of all L words
+
+For the letter M: 
+1 syllable has 1905 words which is 6.8% of all M words
+2 syllables has 11471 words which is 40.93% of all M words
+3 syllables has 9110 words which is 32.51% of all M words
+4 syllables has 3907 words which is 13.94% of all M words
+5 syllables has 1280 words which is 4.57% of all M words
+6 syllables has 274 words which is 0.98% of all M words
+7 syllables has 69 words which is 0.25% of all M words
+8 syllables has 8 words which is 0.03% of all M words
+12 syllables has 1 words which is 0.0% of all M words
+
+For the letter N: 
+1 syllable has 3565 words which is 5.97% of all N words
+2 syllables has 25060 words which is 41.95% of all N words
+3 syllables has 19625 words which is 32.85% of all N words
+4 syllables has 8066 words which is 13.5% of all N words
+5 syllables has 2709 words which is 4.54% of all N words
+6 syllables has 590 words which is 0.99% of all N words
+7 syllables has 106 words which is 0.18% of all N words
+8 syllables has 12 words which is 0.02% of all N words
+9 syllables has 1 words which is 0.0% of all N words
+12 syllables has 1 words which is 0.0% of all N words
+
+For the letter O: 
+1 syllable has 4024 words which is 7.67% of all O words
+2 syllables has 21338 words which is 40.65% of all O words
+3 syllables has 16535 words which is 31.5% of all O words
+4 syllables has 7397 words which is 14.09% of all O words
+5 syllables has 2504 words which is 4.77% of all O words
+6 syllables has 572 words which is 1.09% of all O words
+7 syllables has 103 words which is 0.2% of all O words
+8 syllables has 12 words which is 0.02% of all O words
+9 syllables has 2 words which is 0.0% of all O words
+14 syllables has 1 words which is 0.0% of all O words
+
+For the letter P: 
+1 syllable has 2217 words which is 11.1% of all P words
+2 syllables has 7704 words which is 38.57% of all P words
+3 syllables has 5778 words which is 28.93% of all P words
+4 syllables has 2932 words which is 14.68% of all P words
+5 syllables has 1076 words which is 5.39% of all P words
+6 syllables has 226 words which is 1.13% of all P words
+7 syllables has 34 words which is 0.17% of all P words
+8 syllables has 6 words which is 0.03% of all P words
+14 syllables has 1 words which is 0.01% of all P words
+
+For the letter Q: 
+1 syllable has 199 words which is 14.05% of all Q words
+2 syllables has 552 words which is 38.98% of all Q words
+3 syllables has 446 words which is 31.5% of all Q words
+4 syllables has 175 words which is 12.36% of all Q words
+5 syllables has 40 words which is 2.82% of all Q words
+6 syllables has 4 words which is 0.28% of all Q words
+
+For the letter R: 
+1 syllable has 5074 words which is 7.75% of all R words
+2 syllables has 29279 words which is 44.73% of all R words
+3 syllables has 20403 words which is 31.17% of all R words
+4 syllables has 7718 words which is 11.79% of all R words
+5 syllables has 2349 words which is 3.59% of all R words
+6 syllables has 539 words which is 0.82% of all R words
+7 syllables has 84 words which is 0.13% of all R words
+8 syllables has 13 words which is 0.02% of all R words
+9 syllables has 1 words which is 0.0% of all R words
+12 syllables has 1 words which is 0.0% of all R words
+14 syllables has 1 words which is 0.0% of all R words
+
+For the letter S: 
+1 syllable has 7975 words which is 13.19% of all S words
+2 syllables has 26745 words which is 44.23% of all S words
+3 syllables has 17045 words which is 28.19% of all S words
+4 syllables has 6456 words which is 10.68% of all S words
+5 syllables has 1769 words which is 2.93% of all S words
+6 syllables has 385 words which is 0.64% of all S words
+7 syllables has 82 words which is 0.14% of all S words
+8 syllables has 8 words which is 0.01% of all S words
+9 syllables has 1 words which is 0.0% of all S words
+12 syllables has 1 words which is 0.0% of all S words
+14 syllables has 1 words which is 0.0% of all S words
+
+For the letter T: 
+1 syllable has 4176 words which is 8.63% of all T words
+2 syllables has 19052 words which is 39.35% of all T words
+3 syllables has 14366 words which is 29.67% of all T words
+4 syllables has 7232 words which is 14.94% of all T words
+5 syllables has 2793 words which is 5.77% of all T words
+6 syllables has 666 words which is 1.38% of all T words
+7 syllables has 114 words which is 0.24% of all T words
+8 syllables has 12 words which is 0.02% of all T words
+9 syllables has 2 words which is 0.0% of all T words
+12 syllables has 1 words which is 0.0% of all T words
+14 syllables has 1 words which is 0.0% of all T words
+
+For the letter U: 
+1 syllable has 2985 words which is 10.51% of all U words
+2 syllables has 11987 words which is 42.22% of all U words
+3 syllables has 8420 words which is 29.66% of all U words
+4 syllables has 3518 words which is 12.39% of all U words
+5 syllables has 1166 words which is 4.11% of all U words
+6 syllables has 255 words which is 0.9% of all U words
+7 syllables has 50 words which is 0.18% of all U words
+8 syllables has 8 words which is 0.03% of all U words
+9 syllables has 1 words which is 0.0% of all U words
+14 syllables has 1 words which is 0.0% of all U words
+
+For the letter V: 
+1 syllable has 536 words which is 5.24% of all V words
+2 syllables has 3312 words which is 32.36% of all V words
+3 syllables has 3954 words which is 38.63% of all V words
+4 syllables has 1739 words which is 16.99% of all V words
+5 syllables has 543 words which is 5.31% of all V words
+6 syllables has 129 words which is 1.26% of all V words
+7 syllables has 20 words which is 0.2% of all V words
+8 syllables has 2 words which is 0.02% of all V words
+
+For the letter W: 
+1 syllable has 1483 words which is 13.75% of all W words
+2 syllables has 6060 words which is 56.17% of all W words
+3 syllables has 2636 words which is 24.43% of all W words
+4 syllables has 550 words which is 5.1% of all W words
+5 syllables has 54 words which is 0.5% of all W words
+6 syllables has 4 words which is 0.04% of all W words
+7 syllables has 2 words which is 0.02% of all W words
+
+For the letter X: 
+1 syllable has 149 words which is 6.63% of all X words
+2 syllables has 895 words which is 39.81% of all X words
+3 syllables has 664 words which is 29.54% of all X words
+4 syllables has 352 words which is 15.66% of all X words
+5 syllables has 159 words which is 7.07% of all X words
+6 syllables has 21 words which is 0.93% of all X words
+7 syllables has 4 words which is 0.18% of all X words
+8 syllables has 2 words which is 0.09% of all X words
+9 syllables has 1 words which is 0.04% of all X words
+14 syllables has 1 words which is 0.04% of all X words
+
+For the letter Y: 
+1 syllable has 869 words which is 5.61% of all Y words
+2 syllables has 7084 words which is 45.71% of all Y words
+3 syllables has 4186 words which is 27.01% of all Y words
+4 syllables has 2134 words which is 13.77% of all Y words
+5 syllables has 884 words which is 5.7% of all Y words
+6 syllables has 288 words which is 1.86% of all Y words
+7 syllables has 47 words which is 0.3% of all Y words
+8 syllables has 5 words which is 0.03% of all Y words
+9 syllables has 1 words which is 0.01% of all Y words
+
+For the letter Z: 
+1 syllable has 776 words which is 13.44% of all Z words
+2 syllables has 2129 words which is 36.87% of all Z words
+3 syllables has 1685 words which is 29.18% of all Z words
+4 syllables has 809 words which is 14.01% of all Z words
+5 syllables has 256 words which is 4.43% of all Z words
+6 syllables has 97 words which is 1.68% of all Z words
+7 syllables has 19 words which is 0.33% of all Z words
+8 syllables has 3 words which is 0.05% of all Z words
+9 syllables has 1 words which is 0.02% of all Z words
+

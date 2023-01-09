@@ -1,3 +1,5 @@
+ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+
 def openfile():
     with open('cmudict-07b.txt') as fin:
         input = fin.read()
@@ -26,12 +28,20 @@ def histogram_maker(letter):
 
 def histogram_printer(letter):
     syllables_histogram = histogram_maker(letter)
-    for i in sorted(syllables_histogram):
-        print((i, syllables_histogram[i]))
+    f_out = open("Syllable Histogram.txt", "a")
+    f_out.write(f'For the letter {letter}: \n')
     total_words = sum(syllables_histogram.values())
-    for syllable in syllables_histogram:
-        syllables_histogram[syllable] = round((syllables_histogram[syllable]/total_words) * 100, 2)
-    for i in sorted(syllables_histogram):
-        print((i, syllables_histogram[i]))
 
-histogram_printer('W')
+    for i in sorted(syllables_histogram):
+        if i == 1:
+            f_out.write(f'{i} syllable has {syllables_histogram[i]} words which is {round((syllables_histogram[i]/total_words) * 100, 2)}% of all {letter} words\n')
+        else: 
+            f_out.write(f'{i} syllables has {syllables_histogram[i]} words which is {round((syllables_histogram[i]/total_words) * 100, 2)}% of all {letter} words\n')
+    f_out.write('\n')
+    f_out.close
+
+def alphabet_histogram_cycle(ALPHABET):
+    for letter in ALPHABET:
+        histogram_printer(letter)
+
+alphabet_histogram_cycle(ALPHABET)
